@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Charlie's Angels",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "rating": "4.8",
+    "top_cast": [
+      "Kristen Stewart",
+      "Naomi Scott",
+      "Ella Balinska",
+      "Elizabeth Banks",
+      "Patrick Stewart"
+    ],
+    "type": "Movie",
+    "details": {
+      "release_date": "November 14, 2019 (Russia)",
+      "countries_of_origin": [
+        "Germany",
+        "United States"
+      ],
+      "official_sites": [
+        "Official Facebook",
+        "Official Site"
+      ],
+      "languages": [
+        "English",
+        "French",
+        "Portuguese",
+        "German",
+        "Turkish"
+      ],
+      "also_known_as": "Charlie's Angels",
+      "filming_locations": "Veliefendi Hippodrome, Istanbul, Turkey",
+      "production_companies": [
+        "Columbia Pictures",
+        "2.0 Entertainment",
+        "Perfect World Pictures"
+      ]
+    },
+    "box_office": {
+      "budget": "$48,000,000 (estimated)",
+      "gross_us_&_canada": "$17,803,077",
+      "opening_weekend_us_&_canada": [
+        "$8,351,109",
+        "Nov 17, 2019"
+      ],
+      "gross_worldwide": "$73,279,888"
+    },
+    "tech_specs": {
+      "runtime": "1h 58min",
+      "color": "Color",
+      "sound_mix": [
+        "Dolby Atmos",
+        "Dolby Digital"
+      ],
+      "aspect_ratio": "2.39 : 1"
+    }
+  }
+]
